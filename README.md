@@ -1,2 +1,2 @@
 # Sistema de medición SME1
-Aquí podra encontar las últimas versiones del procesador y herramientas adicionales para el procesamiento de los datos obtenidos por este medio.
+Aquí podra encontar las últimas versiones del procesador de datos y herramientas adicionales para el tratamiento de la información obtenida por este sistema.
